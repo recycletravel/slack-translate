@@ -1,0 +1,6 @@
+.esm-cache
+.env*
+.idea/
+*.iml
+*.db
+node_modules
